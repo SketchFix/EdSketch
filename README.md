@@ -1,5 +1,7 @@
 # EdSketch: Execution-Driven Sketching for Java
 
+###Note: We are ecubating a new main release of EdSketch with more systematic API and more test. The maintainance of this old version is stopped until the new version comes out around July.  
+
 The Execution Driven Sketching Engine 
 
 ## Overview
